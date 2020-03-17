@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatApi", "CatApi\CatApi.csproj", "{982D0641-ACCB-4179-8DFA-A46D69EBCBA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatConsole", "CatConsole\CatConsole.csproj", "{F78BA483-CF12-4511-85DC-22C2FC4CDABE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{982D0641-ACCB-4179-8DFA-A46D69EBCBA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{982D0641-ACCB-4179-8DFA-A46D69EBCBA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{982D0641-ACCB-4179-8DFA-A46D69EBCBA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{982D0641-ACCB-4179-8DFA-A46D69EBCBA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F78BA483-CF12-4511-85DC-22C2FC4CDABE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F78BA483-CF12-4511-85DC-22C2FC4CDABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F78BA483-CF12-4511-85DC-22C2FC4CDABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F78BA483-CF12-4511-85DC-22C2FC4CDABE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DC74526-96AD-4D1C-A489-AA88FD0C46FF}
+	EndGlobalSection
+EndGlobal
